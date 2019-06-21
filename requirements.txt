@@ -1,0 +1,7 @@
+Package    Version
+---------- -------
+pip        19.1.1 
+selenium   3.141.0
+setuptools 41.0.1 
+urllib3    1.25.3 
+wheel      0.33.4 
